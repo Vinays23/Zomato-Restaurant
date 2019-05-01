@@ -53,4 +53,5 @@ The dataset contains 9551 data points collected with around 21 features.Zomato A
 | --- | --- | -- |
 | Linear Regression with best features | 0.0310 |  |
 | Linear Regression with best features using sklearn | 0.0318 | 0.9858 |
+| Linear Regression with all features | 0.0390 | 0.9748 |
 
