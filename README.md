@@ -50,7 +50,7 @@ The dataset contains 9551 data points collected with around 21 features.Zomato A
 
 ## Models trained On:
 | Trained Model | Mean Squared Error | r2 score |
-| --- | --- |
-| Linear Regression with best features | 0.0310 |
+| --- | --- | -- |
+| Linear Regression with best features | 0.0310 |  |
 | Linear Regression with best features using sklearn | 0.0318 | 0.9858 |
 
